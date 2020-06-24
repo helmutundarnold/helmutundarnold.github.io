@@ -9,3 +9,6 @@ The attributes of the character is a gardener which belongs to the species of Ho
 * peasefull companion
 * can drink a lot
 
+
+As Sam said:
+> It’s like in the great stories, Mr. Frodo. The ones that really mattered. 
