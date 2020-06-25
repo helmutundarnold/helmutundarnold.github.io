@@ -9,6 +9,11 @@ The attributes of the character is a gardener which belongs to the species of Ho
 * peasefull companion
 * can drink a lot
 
+ofeature5_image
+
+https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Marsh_Mugger.jpg#/media/Datei:Flickr_-_Rainbirder_-_Marsh_Mugger.jpg
 
 As Sam said:
-> It’s like in the great stories, Mr. Frodo. The ones that really mattered. 
+> It’s like in the great stories, Mr. Frodo. The ones that really mattered.
+
+<img src="https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Marsh_Mugger.jpg#/media/Datei:Flickr_-_Rainbirder_-_Marsh_Mugger.jpg"/>.
